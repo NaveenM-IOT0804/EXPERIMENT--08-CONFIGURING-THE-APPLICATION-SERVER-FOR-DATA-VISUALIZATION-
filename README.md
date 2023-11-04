@@ -21,7 +21,6 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 5. After addition of the widget on the data dash board the data should appear as shown belwo 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/f9f02c5b-ae17-436f-be3a-17c5e66d63a0)
 6. Create a query as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/ceead64a-e6a1-403d-864e-2526f8b39930)
 7. Using the visualization editor modify as per the requirements 
